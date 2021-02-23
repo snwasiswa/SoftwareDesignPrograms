@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"BaseChange"},{"p":"<Unnamed>","l":"BaseChangeMedium"},{"p":"<Unnamed>","l":"BaseChangeMediumDriver"},{"p":"<Unnamed>","l":"BaseChangeMedium.TextFieldHandler"}]

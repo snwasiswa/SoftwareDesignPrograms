@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"ArabicToRomanEasyDriver"},{"p":"<Unnamed>","l":"ArabicToRomanGUIEasy"},{"p":"<Unnamed>","l":"ArabicToRomanGUIEasy.JButtonHandler"},{"p":"<Unnamed>","l":"ArabicToRomanGUIEasy.TextFieldHandler"}]

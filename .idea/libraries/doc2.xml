@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="doc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/6-24_PerfectNumbers_Easy/doc/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/6-24_PerfectNumbers_Easy/doc/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/6-24_PerfectNumbers_Easy/doc/member-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

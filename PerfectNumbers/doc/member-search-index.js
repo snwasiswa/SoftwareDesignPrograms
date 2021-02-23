@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"PerfectNumbersEasy","l":"isPerfect(int)"},{"p":"<Unnamed>","c":"PerfectNumbersEasy","l":"PerfectNumbersEasy()","url":"%3Cinit%3E()"}]

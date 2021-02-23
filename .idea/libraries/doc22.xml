@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="doc2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/S42_BankInheritance_Easy/doc/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/S42_BankInheritance_Easy/doc/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/S42_BankInheritance_Easy/doc/member-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/21-14_PostFixEval_Hard/21-14_PostFixEval_Hard.iml" filepath="$PROJECT_DIR$/21-14_PostFixEval_Hard/21-14_PostFixEval_Hard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java programs.iml" filepath="$PROJECT_DIR$/Java programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PerfectNumbers/PerfectNumbers.iml" filepath="$PROJECT_DIR$/PerfectNumbers/PerfectNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S42_BankInheritance_Easy/S42_BankInheritance_Easy.iml" filepath="$PROJECT_DIR$/S42_BankInheritance_Easy/S42_BankInheritance_Easy.iml" />
+    </modules>
+  </component>
+</project>
