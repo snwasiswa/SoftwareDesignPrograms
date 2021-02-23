@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="doc10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ArabicToRomanGUI/doc/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ArabicToRomanGUI/doc/member-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ArabicToRomanGUI/doc/type-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

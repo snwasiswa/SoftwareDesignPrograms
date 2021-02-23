@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="doc11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MergeSort/doc/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/MergeSort/doc/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/MergeSort/doc/member-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="doc8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Computus/doc/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Computus/doc/member-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Computus/doc/type-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,14 +1,618 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="564c3ed4-e0f1-413e-bfe3-57bb0bd1f638" name="Default Changelist" comment="" />
+    <list default="true" id="564c3ed4-e0f1-413e-bfe3-57bb0bd1f638" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc102.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc62.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc82.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/doc92.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PostFixEval/PostFixEval.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scoreboard/S5_Scoreboard_Medium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scoreboard/Scoreboard.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/21-14_PostFixEval_Hard.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/PostFixEval_HardJUnitTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/PostFixEval_HardJUnitTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/PostfixEvaluator.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/PostfixEvaluator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/PostfixEvaluator.png" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/PostfixEvaluator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/PostfixEvaluatorDriver.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/PostfixEvaluatorDriver.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/package-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/resources/glass.png" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/resources/glass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/resources/x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/resources/x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/images/ui-icons_222222_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/images/ui-icons_2e83ff_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/images/ui-icons_454545_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/images/ui-icons_888888_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/jszip-utils/dist/jszip-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/jszip/dist/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script-dir/jszip/dist/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/doc/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/src/PostFixEval_HardJUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/src/PostFixEval_HardJUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/src/PostfixEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/src/PostfixEvaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-14_PostFixEval_Hard/src/PostfixEvaluatorDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/src/PostfixEvaluatorDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/21-25_PrintingTrees_Hard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/ArabicToRomanGUI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/PrintingTrees.png" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/PrintingTrees.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/PrintingTreesDriver.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/PrintingTreesDriver.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/Tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/Tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/TreeNode.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/TreeNode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/package-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/resources/glass.png" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/resources/glass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/resources/x.png" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/resources/x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/images/ui-icons_222222_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/images/ui-icons_2e83ff_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/images/ui-icons_454545_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/images/ui-icons_888888_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/jszip-utils/dist/jszip-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/jszip/dist/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script-dir/jszip/dist/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/src/PrintingTreesDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/src/PrintingTreesDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/src/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-25_PrintingTrees_Hard/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/src/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/23-11_BouncingBalls_Medium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BaseChangeGUI/BaseChangeGUI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/Ball.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/Ball.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/Ball.png" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/Ball.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/BouncingBallsMediumDriver.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/BouncingBallsMediumDriver.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/package-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/resources/glass.png" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/resources/glass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/resources/x.png" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/resources/x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/images/ui-icons_222222_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/images/ui-icons_2e83ff_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/images/ui-icons_454545_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/images/ui-icons_888888_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/jszip-utils/dist/jszip-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/jszip/dist/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script-dir/jszip/dist/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/doc/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/doc/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/src/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/src/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-11_BouncingBalls_Medium/src/BouncingBallsMediumDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/src/BouncingBallsMediumDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseChangeGUI/S29_BaseChangeGUI_Medium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BouncingBalls/BouncingBalls.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadedServer/28-15_MultiThreadedServer_Hard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/Computus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PerfectNumbers/PerfectNumbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PerfectNumbers/PerfectNumbers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PerfectNumbers/src/PerfectNumbersEasyJUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/PerfectNumbers/src/PerfectNumbersEasyJUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/S10_ArabicToRomanGUI_Easy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/ImageRotator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/ArabicToRomanEasyDriver.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/ArabicToRomanEasyDriver.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/ArabicToRomanGUIEasy.JButtonHandler.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/ArabicToRomanGUIEasy.JButtonHandler.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/ArabicToRomanGUIEasy.TextFieldHandler.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/ArabicToRomanGUIEasy.TextFieldHandler.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/ArabicToRomanGUIEasy.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/ArabicToRomanGUIEasy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/ArabicToRomanGUIEasy.png" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/ArabicToRomanGUIEasy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/package-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/resources/glass.png" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/resources/glass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/resources/x.png" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/resources/x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/images/ui-icons_222222_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/images/ui-icons_2e83ff_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/images/ui-icons_454545_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/images/ui-icons_888888_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/jszip-utils/dist/jszip-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/jszip/dist/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script-dir/jszip/dist/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/doc/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/doc/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/src/ArabicToRomanEasyDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/src/ArabicToRomanEasyDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S10_ArabicToRomanGUI_Easy/src/ArabicToRomanGUIEasy.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArabicToRomanGUI/src/ArabicToRomanGUIEasy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/S18_MergeSort_Medium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/MergeSort.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/MergeSort.html" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/MergeSort.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/MergeSort.png" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/MergeSort.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/MergeSortTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/MergeSortTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/package-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/resources/glass.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/resources/glass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/resources/x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/resources/x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/images/ui-icons_222222_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/images/ui-icons_2e83ff_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/images/ui-icons_454545_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/images/ui-icons_888888_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/jszip-utils/dist/jszip-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/jszip/dist/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script-dir/jszip/dist/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/doc/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/src/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/src/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S18_MergeSort_Medium/src/MergeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/src/MergeSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/S1_Computus_Hard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/BankInheritance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/ComputusHard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/ComputusHard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/ComputusHard.png" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/ComputusHard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/ComputusHardDriver.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/ComputusHardDriver.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/ComputusHardJUnitTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/ComputusHardJUnitTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/package-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/resources/glass.png" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/resources/glass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/resources/x.png" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/resources/x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/images/ui-icons_222222_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/images/ui-icons_2e83ff_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/images/ui-icons_454545_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/images/ui-icons_888888_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/jszip-utils/dist/jszip-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/jszip/dist/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script-dir/jszip/dist/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/doc/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/doc/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/src/ComputusHard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/src/ComputusHard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/src/ComputusHardDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/src/ComputusHardDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1_Computus_Hard/src/ComputusHardJUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Computus/src/ComputusHardJUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/S22_ImageRotator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreadedServer/MultiThreadedServer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/DrawImage.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/DrawImage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/ImageRotator.JButtonHandler1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/ImageRotator.JButtonHandler1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/ImageRotator.changeState.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/ImageRotator.changeState.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/ImageRotator.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/ImageRotator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/ImageRotator.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/ImageRotator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/ImageRotatorDriver.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/ImageRotatorDriver.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/index-files/index-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/index-files/index-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/package-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/resources/glass.png" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/resources/glass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/resources/x.png" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/resources/x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/images/ui-icons_222222_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/images/ui-icons_2e83ff_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/images/ui-icons_454545_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/images/ui-icons_888888_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/jszip-utils/dist/jszip-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/jszip/dist/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script-dir/jszip/dist/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/PostFixEval/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/doc/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/doc/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/src/DrawImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/src/DrawImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/src/ImageRotator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/src/ImageRotator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S22_ImageRotator/src/ImageRotatorDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/ImageRotator/src/ImageRotatorDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/S42_BankInheritance_Easy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/Account.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/Account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/Account.png" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/Account.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/Bank.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/Bank.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/BankInheritanceEasyJUnit.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/BankInheritanceEasyJUnit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/CheckingAccount.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/CheckingAccount.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/LoanAccount.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/LoanAccount.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/SavingsAccount.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/SavingsAccount.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/package-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/resources/glass.png" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/resources/glass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/resources/x.png" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/resources/x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/images/ui-icons_222222_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/images/ui-icons_2e83ff_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/images/ui-icons_454545_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/images/ui-icons_888888_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/jszip-utils/dist/jszip-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/jszip/dist/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script-dir/jszip/dist/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/doc/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/doc/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/src/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/src/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/src/BankInheritanceEasyJUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/src/BankInheritanceEasyJUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/src/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/src/CheckingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/src/LoanAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/src/LoanAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S42_BankInheritance_Easy/src/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankInheritance/src/SavingsAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/S5_Scoreboard_Medium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PrintingTrees/PrintingTrees.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/Basketball.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/Basketball.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/Football.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/Football.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/Game.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/Game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/Game.png" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/Game.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/GameDriver.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/GameDriver.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/Hockey.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/Hockey.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/Soccer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/Soccer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/Team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/Team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/index-files/index-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/package-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/resources/glass.png" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/resources/glass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/resources/x.png" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/resources/x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/images/ui-icons_222222_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/images/ui-icons_2e83ff_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/images/ui-icons_454545_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/images/ui-icons_888888_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/jszip-utils/dist/jszip-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/jszip/dist/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script-dir/jszip/dist/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/doc/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/doc/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/src/Basketball.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/src/Basketball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/src/Football.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/src/Football.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/src/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/src/GameDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/src/GameDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/src/Hockey.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/src/Hockey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/src/Soccer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/src/Soccer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S5_Scoreboard_Medium/src/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scoreboard/src/Team.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Base change" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1oZVxyu2Ex0PvxrtLRgiKUQLlGf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,9 +621,52 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.ArabicToRomanEasyDriver">
+    <configuration name="ArabicToRomanEasyDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArabicToRomanEasyDriver" />
+      <module name="ArabicToRomanGUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameDriver" />
+      <module name="Scoreboard" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectNumbersEasyDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerfectNumbersEasyDriver" />
+      <module name="PerfectNumbers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostfixEvaluatorDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PostfixEvaluatorDriver" />
+      <module name="PostFixEval" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArabicToRomanEasyDriver" />
+        <item itemvalue="Application.GameDriver" />
+        <item itemvalue="Application.PerfectNumbersEasyDriver" />
+        <item itemvalue="Application.PostfixEvaluatorDriver" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,14 +682,53 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="462" y="216" width="789" height="593" key="NewModule_or_Project.wizard" timestamp="1614053127477">
+    <state x="695" y="414" key="Github.ShareDialog" timestamp="1614053332596">
       <screen x="0" y="25" width="1680" height="976" />
     </state>
-    <state x="462" y="216" width="789" height="593" key="NewModule_or_Project.wizard/0.25.1680.976@0.25.1680.976" timestamp="1614053127477" />
+    <state x="695" y="414" key="Github.ShareDialog/0.25.1680.976@0.25.1680.976" timestamp="1614053332596" />
+    <state x="510" y="222" key="Github.UntrackedFilesDialog" timestamp="1614053360919">
+      <screen x="0" y="25" width="1680" height="976" />
+    </state>
+    <state x="510" y="222" key="Github.UntrackedFilesDialog/0.25.1680.976@0.25.1680.976" timestamp="1614053360919" />
+    <state width="1638" height="261" key="GridCell.Tab.0.bottom" timestamp="1614054032757">
+      <screen x="0" y="25" width="1680" height="976" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.0.bottom/0.25.1680.976@0.25.1680.976" timestamp="1614054032757" />
+    <state width="1638" height="261" key="GridCell.Tab.0.center" timestamp="1614054032756">
+      <screen x="0" y="25" width="1680" height="976" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.0.center/0.25.1680.976@0.25.1680.976" timestamp="1614054032756" />
+    <state width="1638" height="261" key="GridCell.Tab.0.left" timestamp="1614054032756">
+      <screen x="0" y="25" width="1680" height="976" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.0.left/0.25.1680.976@0.25.1680.976" timestamp="1614054032756" />
+    <state width="1638" height="261" key="GridCell.Tab.0.right" timestamp="1614054032757">
+      <screen x="0" y="25" width="1680" height="976" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.0.right/0.25.1680.976@0.25.1680.976" timestamp="1614054032757" />
+    <state x="462" y="216" width="802" height="593" key="NewModule_or_Project.wizard" timestamp="1614104757674">
+      <screen x="0" y="25" width="1680" height="976" />
+    </state>
+    <state x="462" y="216" width="802" height="593" key="NewModule_or_Project.wizard/0.25.1680.976@0.25.1680.976" timestamp="1614104757674" />
+    <state x="553" y="409" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1614054006457">
+      <screen x="0" y="25" width="1680" height="976" />
+    </state>
+    <state x="553" y="409" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.25.1680.976@0.25.1680.976" timestamp="1614054006457" />
     <state x="439" y="159" key="new project wizard" timestamp="1614052787175">
       <screen x="0" y="25" width="1680" height="976" />
     </state>
     <state x="439" y="144" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1613494532705" />
     <state x="439" y="159" key="new project wizard/0.25.1680.976@0.25.1680.976" timestamp="1614052787175" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PerfectNumbers/src/PerfectNumbersEasyJUnitTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

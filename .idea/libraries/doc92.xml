@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="doc9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ImageRotator/doc/member-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ImageRotator/doc/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ImageRotator/doc/type-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="doc3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/member-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/21-25_PrintingTrees_Hard/doc/type-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

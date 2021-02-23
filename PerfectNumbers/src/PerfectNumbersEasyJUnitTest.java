@@ -1,5 +1,6 @@
 // Import the relevant JUnit classes
 import org.junit.jupiter.api.Test;
+import org.testng.annotations.AfterTest;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class PerfectNumbersEasyJUnitTest { // Beginning class PerfectNumbersEasyJUnitTest

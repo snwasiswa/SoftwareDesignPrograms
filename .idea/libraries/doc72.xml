@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="doc7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MultiThreadedServer/doc/member-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/MultiThreadedServer/doc/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/MultiThreadedServer/doc/package-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
